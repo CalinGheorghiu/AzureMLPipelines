@@ -1,0 +1,1 @@
+Am inceput run-ul din Pipeline_main notebook
